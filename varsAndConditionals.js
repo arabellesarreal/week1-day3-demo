@@ -30,3 +30,4 @@ for(let i = 0; i < 5; i++){
     obiwanHealth -= (anakinAttack - obiwanDefense)
     console.log(`Obi-wans health is ${obiwanHealth}`)
 }
+console.log("good fight")
